@@ -1,11 +1,11 @@
 # Toy-Project
 
-1. ## Youtube Comments Crawling 
+## 1. Youtube Comments Crawling 
 Link to my file : <a href='https://github.com/imymemineyay/Toy-Project/blob/main/Busan_comments.ipynb'> Busan_comments </a>
 <hr>
 
 
-2. ## Kaggle-Playground-Series---Season-3-Episode-11
+## 2. Kaggle-Playground-Series---Season-3-Episode-11
 My Task is to devise a Machine Learning Model that helps somebody predict the cost of media campaigns in the food marts on the basis of the features provided.
 
 Link to my file : <a href='https://github.com/imymemineyay/Toy-Project/blob/main/playground-comp.ipynb'> playground-comp </a> <br>
